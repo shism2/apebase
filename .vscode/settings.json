@@ -1,0 +1,5 @@
+{
+    "git.autofetch": true,
+    "github-actions.workflows.pinned.refresh.enabled": true,
+    "files.autoSave": "afterDelay"
+}
